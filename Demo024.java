@@ -2,11 +2,11 @@ import java.util.ArrayList;
 public class Demo024 {
     public static void main(String[] args) {
     ArrayList<String> names = new ArrayList<>();
-    names.add("Jashmika");
-    names.add("Shruthi");
-    names.add("Geethu");
-    names.add("Sana");
-    names.add("Pranavi");
+    names.add("Rajesh");
+    names.add("Bunny");
+    names.add("Chintu");
+    names.add("Siddu");
+    names.add("Pushkar");
     ArrayList<Long>  phno = new ArrayList<>();
     phno.add(1234567890L);
     phno.add(9087654321L);
