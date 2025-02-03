@@ -14,7 +14,7 @@ class Demo008{
              pwd = scanner.nextLine();
              break;
         }
-        while((!username.equals("jashmika_001"))||(!pwd.equals(" jashu_001")));
+        while((!username.equals("rajesh_001"))||(!pwd.equals(" jashu_001")));
             System.out.println("sucessfully logined");   
     }
 }
